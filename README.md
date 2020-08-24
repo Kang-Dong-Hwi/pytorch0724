@@ -1,7 +1,9 @@
 # pytorch0724
 <br><br>
 ### dataset 구성
----------<br>
+
+---------
+<br>
 
 
 <table>
@@ -13,6 +15,7 @@
   
   <tr>
     <td>
+      
       ~~~python
       
       # x_data 초기화
