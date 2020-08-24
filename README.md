@@ -14,7 +14,8 @@
   </tr>
   
   <tr>
-    <td>
+  
+  <td>
       
     ~~~python
       # x_data 초기화
@@ -88,7 +89,7 @@ y_data = Y_DATA( y )
 
 print('x_data:', x_data.shape)
 print('y_data:', y_data.shape)
-      ~~~~
+   ~~~~
       
    </td>
     
@@ -168,7 +169,8 @@ y_data = Y_DATA( y )
 print('x_data:', x_data.shape)
 print('y_data:', y_data.shape)
       ~~~
-    </td>
+
+   </td>
 
 </table>
 
