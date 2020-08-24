@@ -15,9 +15,7 @@
   
   <tr>
     <td>
-      
-      ~~~python
-      
+    ~~~python
       # x_data 초기화
 x_data = []
 
@@ -92,8 +90,8 @@ print('y_data:', y_data.shape)
       ~~~~
     </td>
     
-    <td>
-      ~~~python
+   <td>
+    ~~~python
       # x_data 초기화
 x_data = []
 
